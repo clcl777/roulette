@@ -1,0 +1,2 @@
+rootProject.name='ルーレット'
+include ':app'
